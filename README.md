@@ -10,7 +10,7 @@
 |![](https://github.com/meowmoeww.png)|![](https://github.com/Sohi2111853.png)|![](https://github.com/Sohi2111853.png)|![](https://github.com/Sohi2111853.png)|
 
 - - - 
-### 분석 주제
+### :fire: 분석 주제
 최근 이상기후로 인한 산불의 다발과 대형화가 지속되며 피해 규모 또한 증가하고 있다.
 산불, 기상, 산림 데이터를 활용해 산불 발생 여부 및 피해 규모를 예측하고, 인력과 자원을 집중적으로 배
 치하여 산불 피해를 최소화하고자 한다.
